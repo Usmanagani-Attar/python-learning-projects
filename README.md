@@ -1,4 +1,4 @@
-# python-learning-projects
+# 🐍 Python Learning Journey
 This repository contains small Python projects I created while learning different concepts step-by-step.
 
 
