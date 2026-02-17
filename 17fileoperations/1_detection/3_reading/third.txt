@@ -1,0 +1,5 @@
+Hello, this is a sample file.
+It contains a few lines of text.
+File operations in Python are easy to learn.
+Keep practicing to master reading and writing files.
+Good luck!
